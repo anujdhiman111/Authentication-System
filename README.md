@@ -30,8 +30,7 @@ This is a web application for managing user authentication. It provides features
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/authentication-system-web-app.git
-   cd authentication-system-web-app
+  (https://github.com/anujdhiman111/Authentication-System.git)
    
 # cd Frontend
 # npm install
