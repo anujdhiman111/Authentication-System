@@ -30,9 +30,9 @@ This is a web application for managing user authentication. It provides features
 1. Clone the repository:
  [ (https://github.com/anujdhiman111/Authentication-System.git)](https://github.com/anujdhiman111/Authentication-System.git)
    
-# cd Frontend
+#### cd Frontend
  npm install
-# cd Backend
+#### cd Backend
  npm install
 
 ### Start the backend server:
