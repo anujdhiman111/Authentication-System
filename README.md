@@ -36,11 +36,11 @@ This is a web application for managing user authentication. It provides features
  npm install
 
 ### Start the backend server:
-# cd Backend
+#### cd Backend
  node server
 
 ### Start the frontend server:
-# cd Frontend/internship-assignment
+#### cd Frontend/internship-assignment
  npm start
 
 ### When prompted to start the frontend server on a different port (Y/n), type Y and press Enter.
