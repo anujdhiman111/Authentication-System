@@ -31,17 +31,17 @@ This is a web application for managing user authentication. It provides features
  [ (https://github.com/anujdhiman111/Authentication-System.git)](https://github.com/anujdhiman111/Authentication-System.git)
    
 # cd Frontend
-# npm install
+ npm install
 # cd Backend
-# npm install
+ npm install
 
 ### Start the backend server:
 # cd Backend
-# node server
+ node server
 
 ### Start the frontend server:
 # cd Frontend/internship-assignment
-# npm start
+ npm start
 
 ### When prompted to start the frontend server on a different port (Y/n), type Y and press Enter.
 
