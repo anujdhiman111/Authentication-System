@@ -33,18 +33,18 @@ This is a web application for managing user authentication. It provides features
    git clone https://github.com/your-username/authentication-system-web-app.git
    cd authentication-system-web-app
    
-cd frontend
-npm install
-cd backend
-npm install
+# cd Frontend
+# npm install
+# cd Backend
+# npm install
 
 ### Start the backend server:
-cd backend
-node server
+# cd Backend
+# node server
 
 ### Start the frontend server:
-cd frontend/internship-assignment
-npm start
+# cd Frontend/internship-assignment
+# npm start
 
 ### When prompted to start the frontend server on a different port (Y/n), type Y and press Enter.
 
