@@ -15,7 +15,7 @@ This is a web application for managing user authentication. It provides features
 
 - Frontend: React
 - Backend: Node.js, Express.js
-- Database: MongoDB (or specify your database choice)
+- Database: MongoDB
 - Authentication: JWT (JSON Web Tokens)
 
 ## Getting Started
