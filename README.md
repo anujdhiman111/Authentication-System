@@ -46,5 +46,5 @@ This is a web application for managing user authentication. It provides features
 ### When prompted to start the frontend server on a different port (Y/n), type Y and press Enter.
 
 ## Creds For Admin:
--email: admin@gmail.com
--password: 12345678
+- email: admin@gmail.com
+- password: 12345678
